@@ -1,0 +1,16 @@
+1- server creation
+1.2- database creation
+2- database connection 
+mongoDB 
+databases : SQL , NoSQL 
+SQL : tables 
+NoSQL (mongoDB) : documents ===> model 
+model : ex: {
+    fullName,
+    email,
+    adress,
+    phone
+}
+3- define a model 
+4- routes : endpoints that represent server responses to client 
+requests 
